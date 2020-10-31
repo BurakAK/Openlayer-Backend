@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3rZgY2CzMbzg/s7IWgkqWVZyPzhl/a7gM9LhZ413STpU1SB92bXbi+xOs73jNMwNWx1DNCcW3MIWxOEJYAUlug==",
+  "dgSpecHash": "lrMUhXGbxaAL6JqU3FSFpS3ukfXgU3G8RCodTBYNtIB7viYtXd2K4yOs1HOaFr2edn0YsgDNuNCknr8e8kt+VA==",
   "success": true,
   "projectFilePath": "C:\\Users\\burak\\OneDrive\\Masaüstü\\Openlayer-Backend\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\burak\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\burak\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\burak\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
